@@ -1,6 +1,7 @@
 # 🌾 AgriFincaster
-
 ### Smart Farm Planning & Decision Support Platform
+Developed by Vihaan ©
+
 
 AgriFincaster is a full-stack agricultural planning platform designed to help farmers and local agricultural facilitators make better decisions using weather information, crop suitability analysis, production estimates, financial planning, historical records, and community-based resource exchange.
 

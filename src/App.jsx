@@ -45,7 +45,7 @@ export default function App() {
     <AuthProvider>
       <LanguageProvider>
         <LocationProvider>
-          <BrowserRouter basename="/agri-fincaster">
+          <BrowserRouter basename="/AgriFincaster">
             <Routes>
               <Route path="/login" element={<Login />} />
               <Route path="/register" element={<Register />} />
